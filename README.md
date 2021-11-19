@@ -9,7 +9,7 @@ Atom,Visual Studio Code,Figma
 ### You should follow
 [![Github Badge](https://img.shields.io/github/followers/06ergin06?style=social)](https://github.com/06ergin06)
 [![Youtube Badge](https://img.shields.io/youtube/channel/subscribers/UCnu8zBv-6nGXLlxgsBYmksQ?style=social)](https://www.youtube.com/channel/UCnu8zBv-6nGXLlxgsBYmksQ/featured)
-## Statistics
+## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=06ergin06&show_icons=true&theme=dark)
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=06ergin06&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
