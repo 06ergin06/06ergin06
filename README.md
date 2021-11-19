@@ -4,7 +4,7 @@
 ## Technologies 🖥️
 <img  width= 25 height= 25 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> <img width= 25 height= 25 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> <img width= 25 height= 25 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img width= 25 height= 25 src="https://pbs.twimg.com/profile_images/1278691829135876097/I4HKOLJw_400x400.png"><img width= 25 height= 25 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"> 
 ## Tools 🧰
-Atom,Visual Studio Code,Figma
+<img  alt="Visual Studio Code" width= 25 height= 25 src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"> <img alt="Atom Editor"  width= 25 height= 25 src="https://cdn.discordapp.com/attachments/781399912751038464/911342236027985920/kisspng-atom-source-code-editor-text-editor-sublime-text-e-5b136f3de9bfc0.0257497515280003179574.png"><img alt="Atom Editor"  width= 25 height= 25 src="https://media.discordapp.net/attachments/781399912751038464/911344873750286386/B2I33n0iBujqXPO1xpgUeYmQNK9y3M7wd1W-Njlua6jNgfp1vF0VPCSOV61CCpWw-mo.png">
 ### You should follow
 [![Github Badge](https://img.shields.io/github/followers/06ergin06?style=social)](https://github.com/06ergin06)
 [![Youtube Badge](https://img.shields.io/youtube/channel/subscribers/UCnu8zBv-6nGXLlxgsBYmksQ?style=social)](https://www.youtube.com/channel/UCnu8zBv-6nGXLlxgsBYmksQ/featured)
