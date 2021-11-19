@@ -12,4 +12,4 @@ Atom,Visual Studio Code,Figma
 ## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=06ergin06&show_icons=true&theme=dark)
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=06ergin06&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=06ergin06&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
