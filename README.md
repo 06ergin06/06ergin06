@@ -1,5 +1,5 @@
 # İbrahim Hakkı Ergin (Webtas)
-👋Hi,I'm İbrahim Hakkı. I am 15 years old, I'm Front-End Developer 👨‍💻 <br>
+👋Hi there,I'm İbrahim Hakkı. I am 15 years old, I'm Front-End Developer 👨‍💻 <br>
 **I'm going to be Full-Stack Developer 👨‍💻**
 ## Technologies 🧑‍💻
 Html,Css,Javascript,TailwindCSS,Angular,Firebase
