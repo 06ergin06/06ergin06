@@ -1,6 +1,6 @@
 # İbrahim Hakkı Ergin (Webtas)
-👋Hi there,I'm İbrahim Hakkı. I am 15 years old, I'm Front-End Developer 💻 <br>
-**I'm going to be Full-Stack Developer 💻**
+<font size="30px">👋Hi there,I'm İbrahim Hakkı. I am 15 years old, I'm Front-End Developer 💻 <br>
+**I'm going to be Full-Stack Developer 💻**</font>
 ## Technologies 🖥️
 <img  width= 25 height= 25 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> <img width= 25 height= 25 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> <img width= 25 height= 25 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img width= 25 height= 25 src="https://pbs.twimg.com/profile_images/1278691829135876097/I4HKOLJw_400x400.png">  <img width= 25 height= 25 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"> 
 ## Tools 🧰
