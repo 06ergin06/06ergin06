@@ -1,7 +1,7 @@
 # İbrahim Hakkı Ergin (Webtas)
 **👋Hi there,I'm İbrahim Hakkı Ergin, I'm 15 years old, I'm Front-End Developer 💻 <br>
 I'm going to be Full-Stack Developer 💻** 
-<a href="https://app.daily.dev/Webtas"><img src="https://api.daily.dev/devcards/42d586df275f4a679609950c0f224a83.png?r=nap" align = "right" width="280" alt="Ibrahim Hakki Ergin's Dev Card"/></a>
+<a href="https://app.daily.dev/Webtas"><img src="https://github.com/06ergin06/06ergin06/blob/master/devcard.svg" align = "right" width="280" alt="Ibrahim Hakki Ergin's Dev Card"/></a>
 ## Technologies 🖥️
 <code><img  width="30" height= "30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img width= "30" height= "30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
