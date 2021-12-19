@@ -1,7 +1,6 @@
 # İbrahim Hakkı Ergin (Webtas)
 **👋Hi there,I'm İbrahim Hakkı Ergin, I'm 15 years old, I'm Front-End Developer 💻 <br>
 I'm going to be Full-Stack Developer 💻** 
-<a href="https://app.daily.dev/Webtas"><img src="https://github.com/06ergin06/06ergin06/blob/main/devcard.svg" align = "right" width="280" alt="Ibrahim Hakki Ergin's Dev Card"/></a>
 ## Technologies 🖥️
 <code><img  width="30" height= "30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img width= "30" height= "30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -15,8 +14,9 @@ I'm going to be Full-Stack Developer 💻**
 [![Discord Shield](https://discordapp.com/api/guilds/502876029845766145/widget.png?style=shield)](https://discord.gg/dvFbf9y969)
 [![Github Badge](https://img.shields.io/github/followers/06ergin06?style=social)](https://github.com/06ergin06)
 [![Youtube Badge](https://img.shields.io/youtube/channel/subscribers/UCnu8zBv-6nGXLlxgsBYmksQ?style=social)](https://www.youtube.com/channel/UCnu8zBv-6nGXLlxgsBYmksQ/featured)
-## Github Stats
+## Stats
 ![](https://komarev.com/ghpvc/?username=06ergin06&color=green)<br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=06ergin06&show_icons=true&theme=dark)
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=06ergin06&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=06ergin06&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br>
+<a href="https://app.daily.dev/Webtas"><img src="https://github.com/06ergin06/06ergin06/blob/main/devcard.svg" align = "center" width="280" alt="Ibrahim Hakki Ergin's Dev Card"/></a>
