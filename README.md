@@ -18,5 +18,5 @@ I'm going to be Full-Stack Developer 💻**
 ![](https://komarev.com/ghpvc/?username=06ergin06&color=green)<br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=06ergin06&show_icons=true&theme=dark)
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=06ergin06&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=06ergin06&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br><br>
 <a href="https://app.daily.dev/Webtas"><img src="https://github.com/06ergin06/06ergin06/blob/main/devcard.svg" align = "center" width="250" alt="Ibrahim Hakki Ergin's Dev Card"/></a>
