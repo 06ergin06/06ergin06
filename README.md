@@ -22,4 +22,9 @@ I'll be a Full-Stack Developer. 💻**
 <a href="https://app.daily.dev/Webtas"><img src="https://github.com/06ergin06/06ergin06/blob/main/devcard.svg" align = "center" width="250" alt="Ibrahim Hakki Ergin's Dev Card"/></a>
 ## My certificates
 [Web Programlama 101 - Türkcell Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/ibrahimh.ergin/Web%20Programlama/101) <br>
-[Web Programlama 201 - Türkcell Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/ibrahimh.ergin/Web%20Programlama/201)
+[Web Programlama 201 - Türkcell Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/ibrahimh.ergin/Web%20Programlama/201) <br>
+[Bilgi Teknolojilerine Giriş - Btk Akademi](https://github.com/06ergin06/06ergin06/blob/main/Bilgi_Teknolojilerine_Giri__Sertifika%20(1).pdf) <br>
+[İnternetin Bilinçli Kullanımı - Btk Akademi](https://github.com/06ergin06/06ergin06/blob/main/_nternetin_Bilin%C3%A7li_Kullan_m__Sertifika.pdf) <br>
+[Temel Ağ Teknolojileri - Btk Akademi](https://github.com/06ergin06/06ergin06/blob/main/Temel_A__Teknolojileri_Sertifika.pdf) <br>
+[Web Sitesi Kullanılabilirliği - Btk Akademi](https://github.com/06ergin06/06ergin06/blob/main/Web_Sitesi_Kullan_labilirli_i_Sertifika.pdf) <br>
+
