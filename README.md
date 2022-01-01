@@ -27,4 +27,4 @@ I'll be a Full-Stack Developer. 💻**
 [İnternetin Bilinçli Kullanımı - Btk Akademi](https://github.com/06ergin06/06ergin06/blob/main/_nternetin_Bilin%C3%A7li_Kullan_m__Sertifika.pdf) <br>
 [Temel Ağ Teknolojileri - Btk Akademi](https://github.com/06ergin06/06ergin06/blob/main/Temel_A__Teknolojileri_Sertifika.pdf) <br>
 [Web Sitesi Kullanılabilirliği - Btk Akademi](https://github.com/06ergin06/06ergin06/blob/main/Web_Sitesi_Kullan_labilirli_i_Sertifika.pdf) <br>
-
+[Dijital Ortamda Bilgi - Btk Akademi](https://github.com/06ergin06/06ergin06/blob/main/Dijital_Ortamda_Bilgi_Sertifika.pdf) <br>
