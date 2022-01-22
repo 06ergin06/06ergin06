@@ -29,4 +29,4 @@ I'll be a Full-Stack Developer. 💻**
 [Web Sitesi Kullanılabilirliği - Btk Akademi](https://github.com/06ergin06/06ergin06/blob/main/Web_Sitesi_Kullan_labilirli_i_Sertifika.pdf) <br>
 [İnternetin Bilinçli Kullanımı - Btk Akademi](https://github.com/06ergin06/06ergin06/blob/main/_nternetin_Bilin%C3%A7li_Kullan_m__Sertifika.pdf) <br>
 [Dijital Ortamda Bilgi - Btk Akademi](https://github.com/06ergin06/06ergin06/blob/main/Dijital_Ortamda_Bilgi_Sertifika.pdf) <br>
-[Yeni Başlayanlar İçin Google Analytics ](https://analytics.google.com/analytics/academy/certificate/AJ5uYJAvQialymr0zgt2wQ) <br>
+[Yeni Başlayanlar İçin Google Analytics - Google Analytics Akademisi](https://analytics.google.com/analytics/academy/certificate/AJ5uYJAvQialymr0zgt2wQ) <br>
