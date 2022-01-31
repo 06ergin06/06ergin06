@@ -21,13 +21,5 @@ I'll be a Full-Stack Developer. 💻**
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=06ergin06&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br><br>
 <a href="https://app.daily.dev/Webtas"><img src="https://github.com/06ergin06/06ergin06/blob/main/devcard.svg" align = "center" width="250" alt="Ibrahim Hakki Ergin's Dev Card"/></a>
-## My certificates
-[Web Programlama 101 - Türkcell Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/ibrahimh.ergin/Web%20Programlama/101) <br>
-[Web Programlama 201 - Türkcell Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/ibrahimh.ergin/Web%20Programlama/201) <br>
-[C# ile Algoritma ve Programlama 101 - Türkcell Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/ibrahimh.ergin/C%20Sharp%20ile%20Algoritma%20ve%20Programlama/101) <br>
-[Bilgi Teknolojilerine Giriş - Btk Akademi](https://github.com/06ergin06/06ergin06/blob/main/Bilgi_Teknolojilerine_Giri__Sertifika%20(1).pdf) <br>
-[Temel Ağ Teknolojileri - Btk Akademi](https://github.com/06ergin06/06ergin06/blob/main/Temel_A__Teknolojileri_Sertifika.pdf) <br>
-[Web Sitesi Kullanılabilirliği - Btk Akademi](https://github.com/06ergin06/06ergin06/blob/main/Web_Sitesi_Kullan_labilirli_i_Sertifika.pdf) <br>
-[İnternetin Bilinçli Kullanımı - Btk Akademi](https://github.com/06ergin06/06ergin06/blob/main/_nternetin_Bilin%C3%A7li_Kullan_m__Sertifika.pdf) <br>
-[Dijital Ortamda Bilgi - Btk Akademi](https://github.com/06ergin06/06ergin06/blob/main/Dijital_Ortamda_Bilgi_Sertifika.pdf) <br>
-[Yeni Başlayanlar İçin Google Analytics](https://analytics.google.com/analytics/academy/certificate/AJ5uYJAvQialymr0zgt2wQ) <br>
+## My Personal Website
+[Website](https://webtas.cf/) 
