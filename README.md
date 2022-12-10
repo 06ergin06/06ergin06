@@ -1,6 +1,5 @@
 # İbrahim Hakkı Ergin (Webtas)
-**👋Hi, I'm 16 years old and work as a Front-End Developer. 💻<br>
-I'll be a Full-Stack Developer. 💻**
+Hi 👋, I'm İbrahim Hakkı Ergin 16 year old high school student 👨‍🎓. I'm from Türkiye 🇹🇷. I'm improving myself in the software and technology 💻. Also, I'm a content creator. While improving myself, I also try to improve other people. For this purpose, I managed a forum in 2021. Then I created a Webtas community on Instagram, YouTube and Discord. My hobbies are playing chess, playing bağlama (This is a Turkish instrument) and playing video games.
 ## Languages/Libraries/Frameworks 🖥️
 <code><img  width="30" height= "30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img width= "30" height= "30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
