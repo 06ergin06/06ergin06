@@ -10,7 +10,7 @@ Hi 👋, I'm İbrahim Hakkı Ergin 16 year old high school student 👨‍🎓. 
 ### You should follow
 [![Discord Shield](https://discordapp.com/api/guilds/502876029845766145/widget.png?style=shield)](https://discord.gg/dvFbf9y969)
 [![Github Badge](https://img.shields.io/github/followers/06ergin06?style=social)](https://github.com/06ergin06)
-[![Youtube Badge](https://img.shields.io/youtube/channel/subscribers/UCnu8zBv-6nGXLlxgsBYmksQ?style=social)](https://www.youtube.com/channel/UCnu8zBv-6nGXLlxgsBYmksQ/featured)
+[![Youtube Badge](https://img.shields.io/youtube/channel/subscribers/UCnu8zBv-6nGXLlxgsBYmksQ?style=social)](https://www.youtube.com/channel/@Webtas)
 ## Stats
 ![](https://komarev.com/ghpvc/?username=06ergin06&color=green)<br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=06ergin06&show_icons=true&theme=dark)
