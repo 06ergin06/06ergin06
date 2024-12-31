@@ -8,7 +8,6 @@ Hi 👋, I am İbrahim Hakkı Ergin 18 years old software engineering student �
 <code><img width= "25" height= "25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img width= "25" height= "30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png"></code>
 ### You should follow
-[![Discord Shield](https://discordapp.com/api/guilds/502876029845766145/widget.png?style=shield)](https://discord.gg/dvFbf9y969)
 [![Github Badge](https://img.shields.io/github/followers/06ergin06?style=social)](https://github.com/06ergin06)
 [![Youtube Badge](https://img.shields.io/youtube/channel/subscribers/UCnu8zBv-6nGXLlxgsBYmksQ?style=social)](https://www.youtube.com/channel/@Webtas)
 ## Stats
