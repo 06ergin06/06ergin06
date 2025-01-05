@@ -1,5 +1,5 @@
 # İbrahim Hakkı Ergin (Webtas)
-Hi 👋, I am İbrahim Hakkı Ergin 18 years old software engineering student 👨‍🎓. I'm from Türkiye 🇹🇷. I'm improving myself in the software and technology 💻. Also, I'm a content creator. While improving myself, I also try to improve other people. For this purpose, I managed a forum in 2021. Then I created a Webtas community on Instagram, YouTube and Discord 📱. My hobbies are reading books 🧠, playing chess 🧠 and playing video games 🎮.<br>
+Hi 👋, I am İbrahim Hakkı Ergin 18 years old software engineering student at Biruni University 👨‍🎓. I'm from Türkiye 🇹🇷. I'm improving myself in the software and technology 💻. Also, I'm a content creator. While improving myself, I also try to improve other people. For this purpose, I managed a forum in 2021. Then I created a Webtas community on Instagram, YouTube and Discord 📱. My hobbies are reading books 🧠, playing chess 🧠 and playing video games 🎮.<br>
 ## Skills
 <code><img  width="30" height= "30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img width= "30" height= "30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
