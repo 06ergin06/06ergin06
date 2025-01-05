@@ -5,7 +5,6 @@ Hi 👋, I am İbrahim Hakkı Ergin 18 years old software engineering student at
 <code><img width= "30" height= "30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img width= "25" height= "25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img width= "25" height= "25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img width= "25" height= "25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img width= "25" height= "30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png"></code>
 ### You should follow
 [![Github Badge](https://img.shields.io/github/followers/06ergin06?style=social)](https://github.com/06ergin06)
@@ -15,4 +14,3 @@ Hi 👋, I am İbrahim Hakkı Ergin 18 years old software engineering student at
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=06ergin06&show_icons=true&theme=dark)
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=06ergin06&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br>
- 
