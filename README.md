@@ -5,3 +5,4 @@
 [![Youtube Badge](https://img.shields.io/youtube/channel/subscribers/UCnu8zBv-6nGXLlxgsBYmksQ?style=social)](https://www.youtube.com/channel/@Webtas)
 <br> <br>
 ![](https://komarev.com/ghpvc/?username=06ergin06&color=green)<br><br>
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=06ergin06&layout=compact&theme=dark)
