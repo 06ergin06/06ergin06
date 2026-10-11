@@ -1,5 +1,8 @@
-# <a href="https://ihakkiergin.com/"> İbrahim Hakkı Ergin </a>
- Hey 👋 I'm İbrahim Hakkı Ergin. I'm 20 years old and from Türkiye 🇹🇷. I'm a third-year Software Engineering student at Biruni University in Istanbul 👨‍🎓. Also, I'm student at 42 Istanbul Common Core. I love technology, coding, and making new things. <br>
-<br> <br>
-![](https://komarev.com/ghpvc/?username=06ergin06&color=green)<br><br>
+# [İbrahim Hakkı Ergin](https://ihakkiergin.com/)
+
+20 y/o Software Engineering & 42 Istanbul student from Türkiye 🇹🇷
+Interested in Linux, C, Rust and open source.
+
+![](https://komarev.com/ghpvc/?username=06ergin06&color=green)
+
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=06ergin06&layout=compact&theme=dark&hide=qml,GDscript)
