@@ -1,6 +1,6 @@
 # [İbrahim Hakkı Ergin](https://ihakkiergin.com/)
 
-20 y/o Software Engineering & 42 Istanbul student from Türkiye 🇹🇷
+20 y/o Software Engineering & 42 Istanbul student from Türkiye 🇹🇷<br>
 Interested in Linux, C, Rust and open source.
 
 ![](https://komarev.com/ghpvc/?username=06ergin06&color=green)
